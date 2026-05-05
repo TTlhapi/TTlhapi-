@@ -24,7 +24,7 @@ Features:
 • 
 • 
 Introduction with name and role
-Academic status (2nd year student)
+Academic status (Graduate)
 Navigation menu
 Images (local + external)
 1
@@ -104,6 +104,6 @@ Vercel
 ‍
 💻 Author
 Tshepiso Tlhapi
-Aspiring Web Developer 🚀
+Aspiring Software Developer 🚀
 ⭐ Support
 If you like this project, consider giving it a ⭐ on GitHub
